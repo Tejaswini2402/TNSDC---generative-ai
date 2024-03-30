@@ -1,2 +1,2 @@
 # TNSDC---generative-ai
-Transfer style Learning
+Text to Image Generator
